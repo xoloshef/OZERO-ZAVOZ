@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OZERO-ZAVOZ</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #0a0a0a;
+            color: #ffffff;
+            font-family: 'Courier New', monospace;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #0a0a0a;
+            padding: 20px;
+            text-align: center;
+            z-index: 100;
+            border-bottom: 1px solid #333;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            animation: glitch 2s infinite;
+        }
+
+        .content {
+            margin-top: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 40px;
+            padding: 40px 20px;
+        }
+
+        .gif-container img {
+            max-width: 100%;
+            width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+        }
+
+        .loader {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .loader p {
+            font-size: 1.2rem;
+            color: #00ff88;
+            animation: blink 1s infinite;
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #333;
+            border-top: 4px solid #00ff88;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+
+        @keyframes glitch {
+            0%, 90%, 100% { text-shadow: none; }
+            92% { text-shadow: -2px 0 #ff0040, 2px 0 #00ffff; }
+            94% { text-shadow: 2px 0 #ff0040, -2px 0 #00ffff; }
+            96% { text-shadow: -1px 0 #ff0040, 1px 0 #00ffff; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>OZERO-ZAVOZ</h1>
+    </div>
+
+    <div class="content">
+        <div class="gif-container">
+            <img src="suspect-looking.gif" alt="Suspect Looking">
+        </div>
+
+        <div class="loader">
+            <div class="spinner"></div>
+            <p>Загрузка...</p>
+        </div>
+    </div>
+</body>
+</html>
