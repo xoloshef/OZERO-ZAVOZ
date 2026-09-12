@@ -1,0 +1,204 @@
+payload:
+  # ============================================================
+  # МЕССЕНДЖЕРЫ (РОССИЙСКИЕ)
+  # ============================================================
+  - DOMAIN-SUFFIX,max.ru
+  - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vkontakte.ru
+  - DOMAIN-SUFFIX,vk.me
+  - DOMAIN-SUFFIX,vk.cc
+  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,vk-cdn.net
+  - DOMAIN-SUFFIX,vkuser.net
+  - DOMAIN-SUFFIX,vkuservideo.net
+  - DOMAIN-SUFFIX,mycdn.me
+
+  # ============================================================
+  # БАНКИ (РОССИЙСКИЕ)
+  # ============================================================
+  # Сбер
+  - DOMAIN-SUFFIX,sberbank.ru
+  - DOMAIN-SUFFIX,sberbank
+  - DOMAIN-SUFFIX,sber.ru
+  - DOMAIN-SUFFIX,sber
+  - DOMAIN-SUFFIX,sbrf.ru
+  - DOMAIN-SUFFIX,sberbank.com
+
+  # Т-Банк / Тинькофф
+  - DOMAIN-SUFFIX,tinkoff.ru
+  - DOMAIN-SUFFIX,tbank.ru
+  - DOMAIN-SUFFIX,tbank
+  - DOMAIN-SUFFIX,tinkoff.com
+
+  # ВТБ
+  - DOMAIN-SUFFIX,vtb.com
+  - DOMAIN-SUFFIX,vtb.ru
+  - DOMAIN-SUFFIX,vtb
+
+
+  # Альфа-Банк
+  - DOMAIN-SUFFIX,alfabank.ru
+  - DOMAIN-SUFFIX,alfabank.com
+
+  # Газпромбанк
+  - DOMAIN-SUFFIX,gazprombank.ru
+
+  # Росбанк
+  - DOMAIN-SUFFIX,rosbank.ru
+
+  # Райффайзен
+  - DOMAIN-SUFFIX,raiffeisen.ru
+
+  # ПСБ
+  - DOMAIN-SUFFIX,psbank.ru
+
+  # Совкомбанк
+  - DOMAIN-SUFFIX,sovcombank.ru
+
+  # Открытие
+  - DOMAIN-SUFFIX,open.ru
+  - DOMAIN-SUFFIX,otkritie.ru
+
+  # Россельхозбанк
+  - DOMAIN-SUFFIX,rshb.ru
+
+  # МТС Банк
+  - DOMAIN-SUFFIX,mtsbank.ru
+
+  # ЮMoney
+  - DOMAIN-SUFFIX,yoomoney.ru
+  - DOMAIN-SUFFIX,yoomoney.com
+
+  # QIWI
+  - DOMAIN-SUFFIX,qiwi.com
+
+  # Мир / НСПК
+  - DOMAIN-SUFFIX,nspk.ru
+  - DOMAIN-SUFFIX,mironline.ru
+
+  # ============================================================
+  # ГОСУСЛУГИ / НАЛОГИ / ГОССЕРВИСЫ
+  # ============================================================
+  - DOMAIN-SUFFIX,gosuslugi.ru
+  - DOMAIN-SUFFIX,esia.gosuslugi.ru
+  - DOMAIN-SUFFIX,nalog.ru
+  - DOMAIN-SUFFIX,nalog.gov.ru
+  - DOMAIN-SUFFIX,fns.ru
+  - DOMAIN-SUFFIX,gibdd.ru
+  - DOMAIN-SUFFIX,gnivc.ru
+  - DOMAIN-SUFFIX,mos.ru
+  - DOMAIN-SUFFIX,mosmetro.ru
+  - DOMAIN-SUFFIX,mosgorpass.ru
+  - DOMAIN-SUFFIX,dnevnik.ru
+  - DOMAIN-SUFFIX,mesh.mos.ru
+  - DOMAIN-SUFFIX,gisgkh.ru
+
+  # ============================================================
+  # СВЯЗЬ / ОПЕРАТОРЫ
+  # ============================================================
+  - DOMAIN-SUFFIX,megafon.ru
+  - DOMAIN-SUFFIX,beeline.ru
+  - DOMAIN-SUFFIX,mts.ru
+  - DOMAIN-SUFFIX,tele2.ru
+  - DOMAIN-SUFFIX,yota.ru
+  - DOMAIN-SUFFIX,rt.ru
+  - DOMAIN-SUFFIX,rostelecom.ru
+
+  # ============================================================
+  # ЯНДЕКС
+  # ============================================================
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,ya.ru
+  - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yandexcloud.ru
+  - DOMAIN-SUFFIX,yandexmusic.ru
+  - DOMAIN-SUFFIX,music.yandex.ru
+  - DOMAIN-SUFFIX,disk.yandex.ru
+  - DOMAIN-SUFFIX,taxi.yandex.ru
+  - DOMAIN-SUFFIX,maps.yandex.ru
+  - DOMAIN-SUFFIX,translate.yandex.ru
+  - DOMAIN-SUFFIX,mail.yandex.ru
+  - DOMAIN-SUFFIX,games.yandex.ru
+  - DOMAIN-SUFFIX,docs.yandex.ru
+  - DOMAIN-SUFFIX,market.yandex.ru
+  - DOMAIN-SUFFIX,eda.yandex.ru
+  - DOMAIN-SUFFIX,lavka.yandex.ru
+  - DOMAIN-SUFFIX,fuel.yandex.ru
+  - DOMAIN-SUFFIX,plus.yandex.ru
+  - DOMAIN-SUFFIX,books.yandex.ru
+  - DOMAIN-SUFFIX,afisha.yandex.ru
+  - DOMAIN-SUFFIX,travel.yandex.ru
+  - DOMAIN-SUFFIX,practicum.yandex.ru
+  - DOMAIN-SUFFIX,tv.yandex.ru
+  - DOMAIN-SUFFIX,station.yandex.ru
+  - DOMAIN-SUFFIX,id.yandex.ru
+  - DOMAIN-SUFFIX,kinopoisk.ru
+  - DOMAIN-SUFFIX,hd.kinopoisk.ru
+
+  # ============================================================
+  # ФИЛЬМЫ И ТВ (РОССИЙСКИЕ)
+  # ============================================================
+  - DOMAIN-SUFFIX,okko.tv
+  - DOMAIN-SUFFIX,start.ru
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,premier.one
+  - DOMAIN-SUFFIX,smotrim.ru
+  - DOMAIN-SUFFIX,zvuk.com
+  - DOMAIN-SUFFIX,ivi.ru
+
+  # ============================================================
+  # VK
+  # ============================================================
+  - DOMAIN-SUFFIX,vkvideo.ru
+  - DOMAIN-SUFFIX,vkplay.ru
+  - DOMAIN-SUFFIX,vkpay.ru
+  - DOMAIN-SUFFIX,ok.ru
+  - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,my.mail.ru
+  - DOMAIN-SUFFIX,cloud.mail.ru
+  - DOMAIN-SUFFIX,imgsmail.com
+  - DOMAIN-SUFFIX,my.com
+  - DOMAIN-SUFFIX,mrads.ru
+  - DOMAIN-SUFFIX,dzen.ru
+  - DOMAIN-SUFFIX,youla.ru
+  - DOMAIN-SUFFIX,my.games
+  - DOMAIN-SUFFIX,mygames.ru
+  - DOMAIN-SUFFIX,allods.ru
+  - DOMAIN-SUFFIX,warface.com
+  - DOMAIN-SUFFIX,tankionline.com
+  - DOMAIN-SUFFIX,crossout.net
+  - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,live.vkvideo.ru
+  - DOMAIN-SUFFIX,live.vkplay.ru
+
+  # ============================================================
+  # МАРКЕТПЛЕЙСЫ И МАГАЗИНЫ
+  # ============================================================
+  - DOMAIN-SUFFIX,ozon.com
+  - DOMAIN-SUFFIX,ozon.ru
+  - DOMAIN-SUFFIX,ozon
+  - DOMAIN-SUFFIX,wildberries.ru
+  - DOMAIN-SUFFIX,wildberries.by
+  - DOMAIN-SUFFIX,wildberries
+  - DOMAIN-SUFFIX,wb
+  - DOMAIN-SUFFIX,avito.ru
+  - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito
+  - DOMAIN-SUFFIX,megamarket.ru
+  - DOMAIN-SUFFIX,sbermegamarket.ru
+  - DOMAIN-SUFFIX,aliexpress.ru
+
+
+  # ============================================================
+  # МАГАЗИНЫ ПРИЛОЖЕНИЙ
+  # ============================================================
+  - DOMAIN-SUFFIX,rustore.ru
+  - DOMAIN-SUFFIX,rustore
+  - DOMAIN-SUFFIX,vk.store
