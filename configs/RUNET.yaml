@@ -657,4 +657,26 @@ payload:
   - DOMAIN-SUFFIX,kontur.ru
   - DOMAIN-SUFFIX,diadoc.ru
   - DOMAIN-SUFFIX,taxcom.ru
-  - DOMAIN-SUFFIX,consult
+  - DOMAIN-SUFFIX,consultant.ru
+  - DOMAIN-SUFFIX,garant.ru
+  - DOMAIN-SUFFIX,kodeks.ru
+  - DOMAIN-SUFFIX,vsdelke.ru
+
+  # ============================================================
+  # ДОМЕННЫЕ ЗОНЫ
+  # ============================================================
+  - DOMAIN-SUFFIX,ru
+  - DOMAIN-SUFFIX,su
+  - DOMAIN-SUFFIX,xn--p1ai
+  - DOMAIN-SUFFIX,рф
+  - DOMAIN-SUFFIX,москва
+  - DOMAIN-SUFFIX,онлайн
+  - DOMAIN-SUFFIX,сайт
+  - DOMAIN-SUFFIX,рус
+  - DOMAIN-SUFFIX,орг
+  - DOMAIN-SUFFIX,com.ru
+  - DOMAIN-SUFFIX,net.ru
+  - DOMAIN-SUFFIX,org.ru
+  - DOMAIN-SUFFIX,pp.ru
+  - DOMAIN-SUFFIX,msk.ru
+  - DOMAIN-SUFFIX,spb.ru
