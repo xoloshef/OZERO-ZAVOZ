@@ -1,0 +1,337 @@
+payload:
+  # ============================================================
+  # МЕССЕНДЖЕРЫ (РОССИЙСКИЕ)
+  # ============================================================
+  - PROCESS-NAME,MAX.exe
+  - PROCESS-NAME,max.exe
+  - PROCESS-NAME,MAX
+  - PROCESS-NAME,max
+  - PROCESS-NAME,ru.max
+  - PROCESS-NAME,max.ru
+
+  - PROCESS-NAME,VK Messenger.exe
+  - PROCESS-NAME,VK Messenger
+  - PROCESS-NAME,vk-messenger
+
+  - PROCESS-NAME,VK.exe
+  - PROCESS-NAME,VK
+  - PROCESS-NAME,vk
+
+  # ============================================================
+  # БАНКИ (РОССИЙСКИЕ)
+  # ============================================================
+  - PROCESS-NAME,SberBank.exe
+  - PROCESS-NAME,Sberbank.exe
+  - PROCESS-NAME,SberBank
+  - PROCESS-NAME,sberbank
+
+  - PROCESS-NAME,Tinkoff.exe
+  - PROCESS-NAME,TBank.exe
+  - PROCESS-NAME,Tinkoff
+  - PROCESS-NAME,TBank
+
+  - PROCESS-NAME,VTB.exe
+  - PROCESS-NAME,vtb.exe
+  - PROCESS-NAME,VTB
+
+  - PROCESS-NAME,AlfaBank.exe
+  - PROCESS-NAME,alfabank.exe
+  - PROCESS-NAME,AlfaBank
+
+  - PROCESS-NAME,GazpromBank.exe
+  - PROCESS-NAME,gazprombank.exe
+  - PROCESS-NAME,GazpromBank
+
+  - PROCESS-NAME,Rosbank.exe
+  - PROCESS-NAME,rosbank.exe
+  - PROCESS-NAME,Rosbank
+
+  - PROCESS-NAME,Raiffeisen.exe
+  - PROCESS-NAME,raiffeisen.exe
+  - PROCESS-NAME,Raiffeisen
+
+  - PROCESS-NAME,PSB.exe
+  - PROCESS-NAME,psb.exe
+  - PROCESS-NAME,PSB
+
+  - PROCESS-NAME,SovcomBank.exe
+  - PROCESS-NAME,sovcombank.exe
+  - PROCESS-NAME,SovcomBank
+
+  - PROCESS-NAME,Otkritie.exe
+  - PROCESS-NAME,openbank.exe
+  - PROCESS-NAME,Otkritie
+
+  - PROCESS-NAME,Rshb.exe
+  - PROCESS-NAME,rshb.exe
+  - PROCESS-NAME,Rshb
+
+  - PROCESS-NAME,MTSBank.exe
+  - PROCESS-NAME,MTS Bank
+  - PROCESS-NAME,mtsbank
+
+  - PROCESS-NAME,YooMoney.exe
+  - PROCESS-NAME,YooMoney
+  - PROCESS-NAME,yoomoney
+
+  - PROCESS-NAME,QIWI.exe
+  - PROCESS-NAME,QIWI
+  - PROCESS-NAME,qiwi
+
+  # ============================================================
+  # ГОСУСЛУГИ / НАЛОГИ / ГОССЕРВИСЫ
+  # ============================================================
+  - PROCESS-NAME,Gosuslugi.exe
+  - PROCESS-NAME,gosuslugi.exe
+  - PROCESS-NAME,gosuslugi.ru
+  - PROCESS-NAME,Gosuslugi
+  - PROCESS-NAME,gosuslugi
+  - PROCESS-NAME,Gosuslugi Auto
+  - PROCESS-NAME,Gosuslugi Culture
+  - PROCESS-NAME,Goskey
+  - PROCESS-NAME,Nalog
+  - PROCESS-NAME,FNS
+  - PROCESS-NAME,GIBDD
+  - PROCESS-NAME,GNIVC
+  - PROCESS-NAME,ESIA
+  - PROCESS-NAME,Dnevnik
+  - PROCESS-NAME,MESH
+  - PROCESS-NAME,Mos.ru
+  - PROCESS-NAME,MosMetro
+  - PROCESS-NAME,MosGorPass
+
+  # ============================================================
+  # СВЯЗЬ / ОПЕРАТОРЫ
+  # ============================================================
+  - PROCESS-NAME,Megafon
+  - PROCESS-NAME,Beeline
+  - PROCESS-NAME,MTS
+  - PROCESS-NAME,Tele2
+  - PROCESS-NAME,Yota
+  - PROCESS-NAME,Rostelecom
+
+  # ============================================================
+  # ЯНДЕКС
+  # ============================================================
+  - PROCESS-NAME,Yandex
+  - PROCESS-NAME,yandex-browser
+  - PROCESS-NAME,Yandex.exe
+  - PROCESS-NAME,YandexBrowser.exe
+  - PROCESS-NAME,yandexbrowser.exe
+  - PROCESS-NAME,YandexBrowserUpdate.exe
+  - PROCESS-NAME,yandexbrowserupdate.exe
+  - PROCESS-NAME,Yandex Browser
+  - PROCESS-NAME,YandexBrowser
+  - PROCESS-NAME,yandex
+  - PROCESS-NAME,yandex-browser
+  - PROCESS-NAME,yandex_browser
+  - PROCESS-NAME,yandexbrowser
+  - PROCESS-NAME,YandexBrowser
+
+  - PROCESS-NAME,YandexMusic.exe
+  - PROCESS-NAME,YandexMusic
+  - PROCESS-NAME,Yandex Music
+  - PROCESS-NAME,yandex-music
+  - PROCESS-NAME,YandexDisk.exe
+  - PROCESS-NAME,YandexDisk
+  - PROCESS-NAME,Yandex.Disk
+  - PROCESS-NAME,yandex-disk
+  - PROCESS-NAME,YandexTaxi.exe
+  - PROCESS-NAME,YandexTaxi
+  - PROCESS-NAME,Yandex Go
+  - PROCESS-NAME,YandexGo
+  - PROCESS-NAME,yandex-taxi
+  - PROCESS-NAME,YandexMaps.exe
+  - PROCESS-NAME,YandexMaps
+  - PROCESS-NAME,Yandex Maps
+  - PROCESS-NAME,YandexTranslate.exe
+  - PROCESS-NAME,YandexTranslate.exe
+  - PROCESS-NAME,Yandex Translate
+  - PROCESS-NAME,YandexMail.exe
+  - PROCESS-NAME,Yandex Mail
+  - PROCESS-NAME,YandexGames
+  - PROCESS-NAME,Yandex Games
+  - PROCESS-NAME,Yandex Docs
+  - PROCESS-NAME,Yandex Market
+  - PROCESS-NAME,YandexEda.exe
+  - PROCESS-NAME,YandexEda
+  - PROCESS-NAME,Yandex Eda
+  - PROCESS-NAME,YandexLavka
+  - PROCESS-NAME,Yandex Lavka
+  - PROCESS-NAME,Yandex Fuel
+  - PROCESS-NAME,Yandex Plus
+  - PROCESS-NAME,Yandex Books
+  - PROCESS-NAME,YandexBooks
+  - PROCESS-NAME,Yandex Afisha
+  - PROCESS-NAME,Yandex Travel
+  - PROCESS-NAME,YandexCloud.exe
+  - PROCESS-NAME,YandexCloud
+  - PROCESS-NAME,Yandex Cloud
+
+  - PROCESS-NAME,YandexPracticum
+  - PROCESS-NAME,Yandex Practicum
+  - PROCESS-NAME,YandexTV.exe
+  - PROCESS-NAME,YandexTV
+  - PROCESS-NAME,Yandex TV
+  - PROCESS-NAME,YandexStation
+  - PROCESS-NAME,Yandex Station
+  - PROCESS-NAME,YandexID
+  - PROCESS-NAME,Yandex ID
+  - PROCESS-NAME,Kinopoisk
+  - PROCESS-NAME,kinopoisk
+
+  # ============================================================
+  # Фильмы и ТВ (РОССИЙСКИЕ)
+  # ============================================================
+  - PROCESS-NAME,Okko
+  - PROCESS-NAME,okko
+  - PROCESS-NAME,START
+  - PROCESS-NAME,start
+  - PROCESS-NAME,More.tv
+  - PROCESS-NAME,more-tv
+  - PROCESS-NAME,Premier
+  - PROCESS-NAME,premier
+  - PROCESS-NAME,Smotrim
+  - PROCESS-NAME,smotrim
+  - PROCESS-NAME,Zvuk
+  - PROCESS-NAME,zvuk
+
+  # ============================================================
+  # VK
+  # ============================================================
+  - PROCESS-NAME,VK.exe
+  - PROCESS-NAME,VK
+  - PROCESS-NAME,vk
+  - PROCESS-NAME,VK Messenger.exe
+  - PROCESS-NAME,VK Messenger
+  - PROCESS-NAME,vk-messenger
+  - PROCESS-NAME,VKMail.exe
+  - PROCESS-NAME,VK Mail
+  - PROCESS-NAME,vkmail
+  - PROCESS-NAME,vk.mail
+  - PROCESS-NAME,vk.mail.ru
+
+
+
+  - PROCESS-NAME,Rutube
+  - PROCESS-NAME,rutube
+  - PROCESS-NAME,VK Video
+  - PROCESS-NAME,vkvideo
+  - PROCESS-NAME,VKVideoLive
+  - PROCESS-NAME,VK Video Live
+  - PROCESS-NAME,vk-video-live
+  - PROCESS-NAME,VKLive.exe
+  - PROCESS-NAME,VK Live
+  - PROCESS-NAME,vklive
+  - PROCESS-NAME,live.vkvideo
+  - PROCESS-NAME,live.vkvideo.ru
+
+  - PROCESS-NAME,VKClips.exe
+  - PROCESS-NAME,VK Clips
+  - PROCESS-NAME,vkclips
+  - PROCESS-NAME,VKMusic.exe
+  - PROCESS-NAME,VK Music
+  - PROCESS-NAME,vkmusic
+  - PROCESS-NAME,VKDating.exe
+  - PROCESS-NAME,VK Dating
+  - PROCESS-NAME,vkdating
+  - PROCESS-NAME,VKCalls.exe
+  - PROCESS-NAME,VK Calls
+  - PROCESS-NAME,vk-calls
+  - PROCESS-NAME,VKWork.exe
+  - PROCESS-NAME,VK Work
+  - PROCESS-NAME,vkwork
+
+  - PROCESS-NAME,VKEducation.exe
+  - PROCESS-NAME,VK Education
+  - PROCESS-NAME,vkeducation
+  - PROCESS-NAME,VK Store
+  - PROCESS-NAME,vkstore
+  - PROCESS-NAME,VKPlay.exe
+  - PROCESS-NAME,VK Play
+  - PROCESS-NAME,vkplay
+  - PROCESS-NAME,VKPay.exe
+  - PROCESS-NAME,VK Pay
+  - PROCESS-NAME,vkpay
+  - PROCESS-NAME,OK.exe
+  - PROCESS-NAME,OK
+  - PROCESS-NAME,ok
+  - PROCESS-NAME,MyMail.exe
+  - PROCESS-NAME,MyMail
+  - PROCESS-NAME,mymail
+  - PROCESS-NAME,Youla.exe
+  - PROCESS-NAME,Youla
+  - PROCESS-NAME,youla
+  - PROCESS-NAME,YooMoney.exe
+  - PROCESS-NAME,YooMoney
+  - PROCESS-NAME,yoomoney
+
+  - PROCESS-NAME,Mail.exe
+  - PROCESS-NAME,MailRu.exe
+  - PROCESS-NAME,Mail
+  - PROCESS-NAME,mail
+  - PROCESS-NAME,Dzen.exe
+  - PROCESS-NAME,Dzen
+  - PROCESS-NAME,dzen
+  - PROCESS-NAME,CloudMailRu.exe
+  - PROCESS-NAME,Cloud Mail.ru
+  - PROCESS-NAME,cloud-mail-ru
+  - PROCESS-NAME,MyGames.exe
+  - PROCESS-NAME,MyGames
+  - PROCESS-NAME,mygames
+  - PROCESS-NAME,Uchi
+  - PROCESS-NAME,uchi
+
+  # ============================================================
+  # МАРКЕТПЛЕЙСЫ И МАГАЗИНЫ
+  # ============================================================
+  - PROCESS-NAME,Ozon
+  - PROCESS-NAME,ozon
+
+  - PROCESS-NAME,Wildberries
+  - PROCESS-NAME,wildberries
+
+  - PROCESS-NAME,Avito
+  - PROCESS-NAME,avito
+
+  # ============================================================
+  # ОФИС И РАБОТА
+  # ============================================================
+  - PROCESS-NAME,MyOffice.exe
+  - PROCESS-NAME,MyOffice
+
+  - PROCESS-NAME,R7Office.exe
+  - PROCESS-NAME,R7 Office
+
+  - PROCESS-NAME,OnlyOffice.exe
+  - PROCESS-NAME,OnlyOffice
+
+  - PROCESS-NAME,MoiOffice.exe
+  - PROCESS-NAME,MoiOffice
+
+  # ============================================================
+  # АНТИВИРУСЫ (RU)
+  # ============================================================
+  - PROCESS-NAME,DrWeb.exe
+  - PROCESS-NAME,drweb.exe
+  - PROCESS-NAME,DrWeb
+
+  - PROCESS-NAME,Kaspersky.exe
+  - PROCESS-NAME,avp.exe
+  - PROCESS-NAME,avpui.exe
+  - PROCESS-NAME,Kaspersky
+
+  # ============================================================
+  # МАГАЗИНЫ ПРИЛОЖЕНИЙ
+  # ============================================================
+  - PROCESS-NAME,RuStore.exe
+  - PROCESS-NAME,rustore.exe
+  - PROCESS-NAME,RuStore
+
+  # ============================================================
+  # ТОРРЕНТЫ (если нужны напрямую)
+  # ============================================================
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,QBittorrent.exe
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,QBittorrent
