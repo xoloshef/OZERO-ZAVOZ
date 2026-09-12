@@ -1,4 +1,4 @@
-payload: # БАН СО СТОРОНЫ РКН
+payload:
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,seasonvar.ru
   - DOMAIN-SUFFIX,lib.social
@@ -23,4 +23,3 @@ payload: # БАН СО СТОРОНЫ РКН
   - DOMAIN-KEYWORD,animelib
   - DOMAIN-KEYWORD,ikianime
   - DOMAIN-KEYWORD,anilibria
-  - IP-CIDR,172.232.25.131/32 # ip for warframe chat

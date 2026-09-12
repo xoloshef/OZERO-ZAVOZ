@@ -2,7 +2,7 @@ payload: # Этим показываем свой русский-реальны�
   - DOMAIN-SUFFIX,2ip.ru
   - DOMAIN-SUFFIX,max.ru
   - DOMAIN-SUFFIX,yastatic.net
-  - DOMAIN-SUFFIX,ya.ruhttps://max.ru/
+  - DOMAIN-SUFFIX,ya.ru
   - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.com
@@ -26,9 +26,14 @@ payload: # Этим показываем свой русский-реальны�
   - DOMAIN-SUFFIX,shopstory.live
   - DOMAIN-SUFFIX,vkvideo.ru
   - DOMAIN-SUFFIX,live.vkvideo.ru
-  - DOMAIN-SUFFIX,sasflix.ru
+  - DOMAIN-SUFFIX,live.vkvideo.ru
   - DOMAIN-SUFFIX,boosty.to
   - DOMAIN-SUFFIX,gosuslugi.ru
+  - DOMAIN-SUFFIX,sasflix.ru
+  - DOMAIN-SUFFIX,rut-miit.ru
+  - DOMAIN-SUFFIX,miit.ru
+  - DOMAIN-SUFFIX,miit
+  - DOMAIN-SUFFIX,rut
   - DOMAIN-KEYWORD,gosuslugi
   - DOMAIN-KEYWORD,tbank
   - DOMAIN-KEYWORD,sber
