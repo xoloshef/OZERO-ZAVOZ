@@ -1,0 +1,71 @@
+# ===== OpenAI / ChatGPT =====
+openai.com
+chatgpt.com
+chat.openai.com
+auth.openai.com
+auth0.openai.com
+android.chat.openai.com
+ios.chat.openai.com
+desktop.chat.openai.com
+tcr9i.chat.openai.com
+api.openai.com
+platform.openai.com
+cdn.openai.com
+cdn.platform.openai.com
+status.openai.com
+help.openai.com
+community.openai.com
+cookbook.openai.com
+pay.openai.com
+
+# OpenAI static assets and file uploads
+oaistatic.com
+oaiusercontent.com
+openaimerge.com
+openaicom.imgix.net
+openaiapi-site.azureedge.net
+production-openaicom-storage.azureedge.net
+openaicomproductionae4b.blob.core.windows.net
+
+# Authentication and login
+auth.openai.com
+setup.auth.openai.com
+auth0.openai.com
+setup.workos.com
+cdn.workos.com
+forwarder.workos.com
+frontend-apps-multi-region.workos.com
+images.workoscdn.com
+workos.imgix.net
+
+# ChatGPT realtime, voice and WebSocket support
+chatgpt.livekit.cloud
+host.livekit.cloud
+turn.livekit.cloud
+ws.chatgpt.com
+
+# Login verification and anti-bot checks
+challenges.cloudflare.com
+client-api.arkoselabs.com
+openai-api.arkoselabs.com
+
+# App features, telemetry and support
+oaistatsig.com
+api.statsig.com
+events.statsigapi.net
+featuregates.org
+intercom.io
+intercomcdn.com
+ct.sendgrid.net
+js.stripe.com
+browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+prodregistryv2.org
+
+# ===== Speed tests =====
+speed.cloudflare.com
+speedtest.net
+www.speedtest.net
+ookla.com
