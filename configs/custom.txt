@@ -17,6 +17,9 @@ help.openai.com
 community.openai.com
 cookbook.openai.com
 pay.openai.com
+files.oaiusercontent.com
+chatgpt.com
+openai.com
 
 # OpenAI static assets and file uploads
 oaistatic.com
