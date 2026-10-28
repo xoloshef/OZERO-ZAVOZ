@@ -1,0 +1,43 @@
+payload:
+  # OpenAI / ChatGPT
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.auth0.openai.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.files.oaiusercontent.com'
+  - '+.openaimerge.com'
+  - '+.openaicom.imgix.net'
+  - '+.openaiapi-site.azureedge.net'
+  - '+.production-openaicom-storage.azureedge.net'
+  - '+.openaicomproductionae4b.blob.core.windows.net'
+
+  # Authentication
+  - '+.workos.com'
+  - '+.workoscdn.com'
+  - '+.workos.imgix.net'
+
+  # Voice / realtime
+  - '+.livekit.cloud'
+
+  # Verification / anti-bot
+  - '+.challenges.cloudflare.com'
+  - '+.arkoselabs.com'
+
+  # Telemetry / support / payments
+  - '+.oaistatsig.com'
+  - '+.statsig.com'
+  - '+.statsigapi.net'
+  - '+.featuregates.org'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+  - '+.sendgrid.net'
+  - '+.stripe.com'
+  - '+.browser-intake-datadoghq.com'
+  - '+.sentry.io'
+  - '+.prodregistryv2.org'
+
+  # Speed tests
+  - '+.speed.cloudflare.com'
+  - '+.speedtest.net'
+  - '+.ookla.com'
